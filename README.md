@@ -47,7 +47,7 @@ not have a nested structure.
 </html>
 ```
 
-**Note:** Except for the `Xor` clip, the roles of `subj` and `clip` are interchangeable.
+**Note:** Except for the `differenceClip()`, the roles of `subj` and `clip` are interchangeable.
 
 ## Example
 
