@@ -51,9 +51,9 @@ not have a nested structure.
 
 ## Example
 
-**Disclaimer:** SVG files in this example are taken
+SVG files in this example are taken
 from [https://freesvg.org/black-cat-cut-file](https://freesvg.org/black-cat-cut-file)
-and [https://freesvg.org/penguin-silhouette-monochrome-art](https://freesvg.org/penguin-silhouette-monochrome-art).
+and [https://freesvg.org/penguin-silhouette-monochrome-art](https://freesvg.org/penguin-silhouette-monochrome-art), and are public domain.
 
 ### Input
 
